@@ -1,0 +1,26 @@
+_repo: Letters-of-the-Motor-Girl_36280
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gardner, Ethellyn
+    gutenberg_agent_id: '38173'
+    url: http://www.gutenberg.org/2009/agents/38173
+description: ''
+gutenberg_issued: '2011-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Franklin automobile -- Fiction'
+- !lcsh 'Girls -- Fiction'
+- !lcsh 'Epistolary fiction'
+title: Letters of the Motor Girl
+url: http://www.gutenberg.org/ebooks/36280
